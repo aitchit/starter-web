@@ -7,6 +7,7 @@ More editing
 Blah!
 
 ## Purpose
+Wevs
 
 Sample website with plenty of files for demos
 AAAAA
