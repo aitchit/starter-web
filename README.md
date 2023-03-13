@@ -7,7 +7,7 @@ More editing
 Blah!
 
 ## Purpose
-Wevs 2
+Wevs 2 3
 
 Sample website with plenty of files for demos
 AAAAA
