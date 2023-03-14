@@ -16,4 +16,4 @@ AAAAA
 
 Yet more editing
 
-Copyright
+Copyright, or something 
